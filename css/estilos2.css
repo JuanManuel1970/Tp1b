@@ -1,0 +1,30 @@
+.texto {display:inline-block;margin: 0px;font-size:16px ;}
+
+h2 {color: white;display:flex;padding: 80px;margin-left: 500px;}
+span {margin: 0px;padding: 0px;font-size:15px;color: white;}
+
+div , .divi {background:rgb(255, 0, 0);
+    color: rgb(255, 255, 255);display: block;height: 200px;}
+    
+body {background-color:red;margin: 0px;padding: 0px;}
+
+h1 {background-color: black;color: white;text-align: center;height: 120px;padding-top: 10px;}
+
+footer {display:block ;background-color:black;color:white;height: 370px;}
+
+nav {background-color: rgb(255, 0, 0);
+    height: 70px;list-style:none;font-size: 30px;margin-top:-40px;margin-left: 50px;}
+
+nav ul li   {display: inline-block;padding: 10px;
+          margin: 20px;border-radius: 60px;font-size: 20px;background-color: rgb(237, 153, 122);color: white;}
+
+nav ul li a  {color: rgb(255, 255, 255);display: inline-block;padding: 0px;line-height: 50px;
+             line-height: 30px;text-decoration: none;}
+
+footer{text-align: center;padding-top: 60px;}
+
+.loren {background-color: black;height: 50px;margin-top:  -50px;text-align: center;}
+
+.web{font-size: 20px;}
+
+.home {margin-left: 100px;}
